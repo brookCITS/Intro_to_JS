@@ -1,4 +1,4 @@
-# CSS Displays
+# Intro to JavaScript
 
 ## Getting Started
 
@@ -12,8 +12,8 @@ Make sure you have **Node.js** and **npm** installed on your system. You can dow
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/brookCITS/css_display
-   cd css_display
+   git clone [your remote link]
+   cd Intro_to_JS
    ```
 2. **Install Dependencies**
 
